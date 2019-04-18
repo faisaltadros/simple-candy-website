@@ -53,6 +53,14 @@ body {
     transition: background 500ms;
 }
 
+footer {
+ /*   background: #F498B8;  */
+    background: #F8B6D3;
+    color: white;
+    font-weight:100;
+    font-size: 1.5rem;
+}
+
 @media (max-width: 1200px) {
     #headingGroup h1 {
         font-weight: 100;
